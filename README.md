@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiruni Koshila</h1>
-<h3 align="center">I am student of Institute of Technology University Of Moratuwa.</h3>
+<h3 align="center">A passionate Full Stack Developer in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru19&label=Profile%20views&color=0e75b6&style=flat" alt="hiru19" /> </p>
 
