@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiruni Koshila</h1>
-<h3 align="center">A passionate QA Engineer in Sri Lanka</h3>
+<h3 align="center">A passionate QA /SE / Web Development </h3>
 
 <p align="left"> <img src="https://media.tenor.com/VbYjG-jloBkAAAAC/computer-working.gif" alt="hiru19" /> </p>
 
