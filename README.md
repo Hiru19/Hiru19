@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hiruni Koshila</h1>
-<h3 align="center">A passionate QA /SE / Web Development </h3>
+<h3 align="center">A passionate Software Quality Assurance </h3>
 
 <p align="left"> <img src="https://media.tenor.com/VbYjG-jloBkAAAAC/computer-working.gif" alt="hiru19" /> </p>
 
 
 
-- 🔭 I’m currently working on **Ceylon Guide-Mobile Travel App**
+- 🔭 I’m currently working on **Automation Testing**
 
-- 🌱 I’m currently learning **Flutter and Node js**
+- 🌱 I’m currently learning **Selenium and TestNG**
 
 - 📝 I regularly write articles on [Hiruni.blogspot.com](Hiruni.blogspot.com)
 
