@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Automation Testing**
 
-- 🌱 I’m currently learning **Selenium and TestNG**
+- 🌱 I’m currently learning **N8N and QA**
 
 - 📝 I regularly write articles on [Hiruni.blogspot.com](Hiruni.blogspot.com)
 
